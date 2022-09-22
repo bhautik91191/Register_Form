@@ -82,7 +82,6 @@ public class RegistrationController extends HttpServlet {
 				response.sendRedirect("employee_table.jsp");
 			}
 		}
-		
 	}
 
 }
